@@ -1,0 +1,125 @@
+.p{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.div_parent{
+display: inline-block;
+
+}
+
+.ImageOne{
+    
+    background-image: url('/Users/seifshaaban/Desktop/Full-Stack/AMIT/Tasks/TaskTwo /Assets/FullStack.png');
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+.DOne{
+    width: 400px;
+    height: 140px;
+    background-color: black;
+    margin-top: -101px;
+    
+
+}
+.First_Title{
+    color: gold;
+    text-align: center;
+    font-size: 30;
+}
+.First_description{
+    color: gold;
+    text-align: center;
+    font-size: 15;
+    /* margin-bottom: 50px; */
+}
+.linkOne{
+    color: white;
+    padding: 150px;
+    font-size: 15;
+
+}
+.ImageTwo{
+    
+    background-image: url('/Users/seifshaaban/Desktop/Full-Stack/AMIT/Tasks/TaskTwo /Assets/CloudComputing.jpg');
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+.DTwo{
+    width: 400px;
+    height: 140px;
+    background-color: black;
+    margin-top: -100px;
+    
+
+}
+.Second_Title{
+    color: gold;
+    text-align: center;
+    font-size: 30;
+}
+.Second_description{
+    color: gold;
+    text-align: center;
+    font-size: 15;
+    /* margin-bottom: 50px; */
+}
+.linkTwo{
+    color: white;
+    padding: 150px;
+    font-size: 15;
+
+}
+.ImageThree{
+    
+    background-image: url('/Users/seifshaaban/Desktop/Full-Stack/AMIT/Tasks/TaskTwo /Assets/DevOps.jpg');
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+
+    /* margin-top: -900px; */
+}
+.DThree{
+    width: 400px;
+    height: 140px;
+    background-color: black;
+    margin-top: -99px;
+    
+
+}
+.Third_Title{
+    color: gold;
+    text-align: center;
+    font-size: 30;
+}
+.Third_description{
+    color: gold;
+    text-align: center;
+    font-size: 15;
+    /* margin-bottom: 50px; */
+}
+.linkThree{
+    color: white;
+    padding: 150px;
+    font-size: 15;
+
+
+}
+.m{
+    text-align: center;
+    margin-top: -100px;
+}
+.ali{
+    
+}
